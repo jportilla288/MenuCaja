@@ -1,0 +1,6 @@
+<root>
+  <item name='android.content.res.Resources java.lang.String getResourceName(int) 0'>
+    <annotation name='java.lang.annotation.Deprecated' />
+    <annotation name='android.support.annotation.NonNull' />
+  </item>
+</root>

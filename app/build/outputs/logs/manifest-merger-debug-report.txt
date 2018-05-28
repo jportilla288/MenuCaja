@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:2:1-59:12
+MERGED from [com.android.support:design:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\c71eba9e1c990ab032d5a9fe0d56cdb7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\7f9b0ea5d7075f6198493e1887428c3b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\03bcb020c4275c8776b7ae3fefd39bca\AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4b60a7514f82f7a57de30702c5f1a262\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\a4f8ad74d11d611dd061fcf8d88144d3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\4ec355f1f1d4861813fc5abf7ef59ad0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.3.0.aar\b4e9df98845450ef12d64687cfcbd559\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\2842afbd2bf7d89573b6fbfd9244ba2b\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\5c840e8240e8631a91c2df3eb876d734\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:2:1-59:12
+		INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:2:1-59:12
+		INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:11:5-72
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:11:22-69
+application
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:13:5-57:19
+MERGED from [com.android.support:design:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\c71eba9e1c990ab032d5a9fe0d56cdb7\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\c71eba9e1c990ab032d5a9fe0d56cdb7\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\7f9b0ea5d7075f6198493e1887428c3b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\7f9b0ea5d7075f6198493e1887428c3b\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\03bcb020c4275c8776b7ae3fefd39bca\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\03bcb020c4275c8776b7ae3fefd39bca\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4b60a7514f82f7a57de30702c5f1a262\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4b60a7514f82f7a57de30702c5f1a262\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\a4f8ad74d11d611dd061fcf8d88144d3\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\a4f8ad74d11d611dd061fcf8d88144d3\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\4ec355f1f1d4861813fc5abf7ef59ad0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\4ec355f1f1d4861813fc5abf7ef59ad0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\2842afbd2bf7d89573b6fbfd9244ba2b\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\2842afbd2bf7d89573b6fbfd9244ba2b\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\5c840e8240e8631a91c2df3eb876d734\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\5c840e8240e8631a91c2df3eb876d734\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.carta.dx.menucaja.MenuCaja
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:19:9-22:59
+	android:label
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:21:13-29
+	android:theme
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:20:13-37
+activity#com.carta.dx.menucaja.inicio_caja
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:23:9-32:20
+	android:label
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:25:13-29
+	android:theme
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:24:13-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.carta.dx.menucaja.PedidoMesa1
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:33:9-36:59
+	android:label
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:35:13-29
+	android:theme
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:34:13-40
+activity#com.carta.dx.menucaja.PedidoMesa2
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:37:9-40:59
+	android:label
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:39:13-29
+	android:theme
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:38:13-40
+activity#com.carta.dx.menucaja.PedidoMesa3
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:41:9-44:59
+	android:label
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:43:13-64
+	android:theme
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:42:13-40
+activity#com.carta.dx.menucaja.HistorialPedido
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:45:9-48:59
+	android:label
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:47:13-68
+	android:theme
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:46:13-44
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:53:9-55:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\2842afbd2bf7d89573b6fbfd9244ba2b\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\2842afbd2bf7d89573b6fbfd9244ba2b\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:55:13-66
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml:54:13-58
+uses-sdk
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\c71eba9e1c990ab032d5a9fe0d56cdb7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\c71eba9e1c990ab032d5a9fe0d56cdb7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\7f9b0ea5d7075f6198493e1887428c3b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\7f9b0ea5d7075f6198493e1887428c3b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\03bcb020c4275c8776b7ae3fefd39bca\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\03bcb020c4275c8776b7ae3fefd39bca\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4b60a7514f82f7a57de30702c5f1a262\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4b60a7514f82f7a57de30702c5f1a262\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\a4f8ad74d11d611dd061fcf8d88144d3\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\a4f8ad74d11d611dd061fcf8d88144d3\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\4ec355f1f1d4861813fc5abf7ef59ad0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\4ec355f1f1d4861813fc5abf7ef59ad0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.3.0.aar\b4e9df98845450ef12d64687cfcbd559\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.3.0.aar\b4e9df98845450ef12d64687cfcbd559\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\2842afbd2bf7d89573b6fbfd9244ba2b\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\2842afbd2bf7d89573b6fbfd9244ba2b\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\5c840e8240e8631a91c2df3eb876d734\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\5c840e8240e8631a91c2df3eb876d734\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\7f9b0ea5d7075f6198493e1887428c3b\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\src\main\AndroidManifest.xml

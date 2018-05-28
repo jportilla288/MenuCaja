@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\a673c397e0d21f0615be813613deb2f56b75d376\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\build\intermediates\pre-dexed\debug\classes_4ede494b6c72346df9586553f6000508456366e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\cb017a480f03b65f98fceb91caaa1e0daa28e20e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\build\intermediates\pre-dexed\debug\classes_bcec310470019a26d85af7703ea8ace71828469e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_674a24b10f7d0a510435a8395f9ad97bf95c671f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCaja\app\build\intermediates\pre-dexed\debug\library-1.0.19_637900ac5fdced376b9d4ca060418e26b3a1ecae.jar" />
+    </item>
+
+</items>
